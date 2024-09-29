@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
+- I'm a current Sophomore studying at the University of North Carolina at Chapel Hill majoring in Computer Science and Information Science.
 
-<!--
-**r-roque/r-roque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Classes
+- Comp 110
+- Comp 210
+- Comp 290
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Programming Languages
+- Python
+- Java
+- Html + Css
+- Javascript
